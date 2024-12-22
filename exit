@@ -1,0 +1,23 @@
+[33mcommit 7467d5ef8389df03347ab7f11c7d19d7158dfd1b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Carlos Lima <carloslima104@gmail.com>
+Date:   Sun Dec 22 15:52:16 2024 -0300
+
+    Create migration - Entity framework
+
+[33mcommit 0f9d8bc523bdc8b9b8c45152889b67f9bd6206e4[m
+Author: Carlos Lima <carloslima104@gmail.com>
+Date:   Sun Dec 22 15:50:52 2024 -0300
+
+    Add DbContext for data access and aluno property
+
+[33mcommit 5352d451b1bca5746af165e1a87209d058fb4785[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Carlos Lima <carloslima104@gmail.com>
+Date:   Sun Dec 22 15:44:50 2024 -0300
+
+    Add aluno entity
+
+[33mcommit a53351cf065888db49c6c0ff03addde7d266a059[m
+Author: Carlos Lima <carloslima104@gmail.com>
+Date:   Sun Dec 22 15:22:51 2024 -0300
+
+    Project initialization
